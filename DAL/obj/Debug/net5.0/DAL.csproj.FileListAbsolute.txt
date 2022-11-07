@@ -1,0 +1,31 @@
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\bin\Debug\net5.0\config.json
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\bin\Debug\net5.0\config.json
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache

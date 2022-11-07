@@ -1,0 +1,27 @@
+﻿@model BLeader.ViewModels.ContactViewModel;
+
+@section Scripts
+{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
+<div>
+    <div>
+        some contact page
+    </div>
+
+    <form method="post">
+        <div asp-validation-summary="All"></div>
+        <label asp-for="Name">Name</label>
+        <input type="text" asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+
+        <label asp-for="Email"><i class="fas fa-paint-roller"></i>Email</label>
+        <input type="email" asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+
+        <input type="submit" value="submit the form" />
+        <div> @ViewBag.UserMessage;</div>
+       
+    </form>
+</div>

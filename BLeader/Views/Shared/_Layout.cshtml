@@ -1,0 +1,38 @@
+﻿
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    @*<title>Building leader - Admin Panel</title>*@
+    <title>@ViewBag.Title - Admin Panel</title>
+
+    @*//change below*@
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body>
+    <header class="container">
+        <h1>
+            Welcome to Admin Panel
+        </h1>
+        <menu>
+            <ul>
+                <li>
+                    <a asp-controller="Trial" asp-action="Index">HomeHome page</a>
+                    <a asp-controller="Trial" asp-action="About">about</a>
+                    <a asp-controller="Trial" asp-action="Contact">contact</a>
+                </li>
+            </ul>
+        </menu>
+    </header>
+    <section>
+        <h2>@ViewBag.Title - Admin Panel</h2>
+        @RenderBody()
+    </section>
+    <footer>Copyright 2022 Building leader</footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/js/site.js"></script>
+    @RenderSection("Scripts", false)
+</body>
+</html>
+

@@ -1,0 +1,11 @@
+﻿{
+  "ConnectionStrings": {
+    "BLeaderContextDb": " Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=BLeaderDB;Integrated Security=True;Connect Timeout=30;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default ": "Information",
+      "Microsoft ": "Warning"
+    }
+  }
+}

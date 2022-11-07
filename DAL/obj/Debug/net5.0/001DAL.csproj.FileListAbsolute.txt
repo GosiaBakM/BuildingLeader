@@ -1,0 +1,5 @@
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\001DAL.csproj.AssemblyReference.cache
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\001DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\001DAL.AssemblyInfoInputs.cache
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\001DAL.AssemblyInfo.cs
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\DAL\obj\Debug\net5.0\001DAL.csproj.CoreCompileInputs.cache

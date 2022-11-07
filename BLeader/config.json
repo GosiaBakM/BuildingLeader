@@ -1,0 +1,12 @@
+﻿{
+  "ConnectionStrings": {
+    "BLeaderContextDb": " Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=BLeaderDB;Integrated Security=True;Connect Timeout=30;MultipleActiveResultSets=true;"
+  },
+  "TokenKey": "ace5ab7830cf1db46eb73bbc49337bd9511264564075b2c62b67e45c76421cbc",
+  "Logging": {
+    "LogLevel": {
+      "Default ": "Information",
+      "Microsoft ": "Warning"
+    }
+  }
+}

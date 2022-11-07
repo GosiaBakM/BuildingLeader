@@ -1,0 +1,28 @@
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\machm\Projekty\c#\BuildLeader - net\BLeader\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\bin\Debug\net5.0\config.json
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\machm\Projekty\cSharp\BuildLeader-net\BLeader\BLL\obj\Debug\net5.0\BLL.pdb
