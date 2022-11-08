@@ -1,0 +1,8 @@
+<div class="form-group">
+    <input [class.is-invalid]='ngControl.touched && ngControl.invalid' type={{type}} class="form-control my-3"
+        [formControl]="ngControl.control" placeholder={{label}}>
+    <div *ngIf="ngControl.control.errors?.required" class="invalid-feedback">Proszę wpisać {{label}}</div>
+    <div *ngIf="ngControl.control.errors?.minlength" class="invalid-feedback">{{label}} musi mieć min {{ ngControl.control.errors.minlength['requiredLength']}}</div>
+    <div *ngIf="ngControl.control.errors?.maxlength" class="invalid-feedback">{{label}} może mieć max {{ ngControl.control.errors.maxlength['requiredLength']}}</div>
+    <div *ngIf="ngControl.control.errors?.isMatching" class="invalid-feedback">Podane hasła nie są takie same</div>
+</div>

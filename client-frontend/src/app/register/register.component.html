@@ -1,0 +1,66 @@
+<!-- <form #registerForm="ngForm" (ngSubmit)="register()" autocomplete="off"> -->
+<form [formGroup]="registerForm" (ngSubmit)="registerForm.valid && register()" autocomplete="off">
+    <h2 class="text-center text-primary">Zarejestruj się</h2>
+    <hr>
+    <div class="form-group">
+        <!-- <input type="text" type="text" class="form-control my-3" name="username" [(ngModel)]="model.username" placeholder="Login">
+        <input 
+        [class.is-invalid]='registerForm.get("username").errors && registerForm.get("username").touched'
+        type="text"
+        class="form-control my-3" 
+        formControlName="username" 
+        placeholder="Login">
+        <div class="invalid-feedback">Proszę wpisać nazwę użytkownika</div>
+    </div>
+    <div class="form-group">
+        <input  
+        [class.is-invalid]='registerForm.get("password").errors && registerForm.get("password").touched'
+        type="password" 
+        class="form-control my-3" 
+        formControlName="password" 
+        placeholder="Hasło">
+        <div *ngIf="registerForm.get('password').hasError('required')" class="invalid-feedback">Proszę wpisać hasło</div>
+        <div *ngIf="registerForm.get('password').hasError('minlength')" class="invalid-feedback">Hasło musi mieć min 8 znaków</div>
+        <div *ngIf="registerForm.get('password').hasError('maxlength')" class="invalid-feedback">Hasło może mieć max 16 znaków</div>
+    </div>
+    <div class="form-group">
+        <input 
+        [class.is-invalid]='registerForm.get("confirmPassword").errors && registerForm.get("confirmPassword").touched'
+        type="password" 
+        class="form-control my-3" 
+        formControlName="confirmPassword" 
+        placeholder="Potwierdź hasło">
+        <div *ngIf="registerForm.get('confirmPassword').hasError('required')" class="invalid-feedback">Proszę wpisać hasło</div>
+        <div *ngIf="registerForm.get('confirmPassword').hasError('isMatching')" class="invalid-feedback">Powtórzone hasło jest odmienne niż hasło wpisane wyżej</div>
+    -->
+        <label class="control-label" style="margin-right: 10px;">Płeć: </label>
+        <label class="radio-inline" style="margin-right: 10px;">
+            <input type="radio" value="male" formControlName="gender">Mężczyna 
+        </label>
+        <label class="radio-inline">
+            <input type="radio" value="female" formControlName="gender">Kobieta
+        </label>
+        <app-text-input [formControl]='registerForm.controls["username"]' [label]='"Imię"'></app-text-input>
+        <app-text-input [formControl]='registerForm.controls["surname"]' [label]='"Nazwisko"'></app-text-input>
+        <app-text-input [formControl]='registerForm.controls["knownAs"]' [label]='"Nickname"'></app-text-input>
+        <app-date-input [formControl]='registerForm.controls["dateOfBirth"]' [label]='"Data urodzenia"' [maxDate]="maxDate"></app-date-input>
+        <app-text-input [formControl]='registerForm.controls["city"]' [label]='"Miasto"'></app-text-input>
+        <app-text-input [formControl]='registerForm.controls["country"]' [label]='"Państwo"'></app-text-input>
+        <app-text-input [formControl]='registerForm.controls["password"]' [label]='"Hasło"' [type]="'password'">
+        </app-text-input>
+        <app-text-input [formControl]='registerForm.controls["confirmPassword"]' [label]='"Powtórz hasło"'
+            [type]="'password'"></app-text-input>
+        <div class="row" *ngIf="validationErrors.length > 0">
+            <ul class="text-danger">
+                <li *ngFor="let error of validationErrors">
+                    {{ error }}
+                </li>
+            </ul>
+        </div>
+        <div class="form-group text-center">
+            <button  class="btn btn-success mx-2" type="submit">Utwórz konto</button>
+            <!-- <button [disabled]='!registerForm.valid' class="btn btn-success mx-2" type="submit">Utwórz konto</button>  -->
+            <button class="btn btn-light mx-2" (click)="cancel()" type="button">Anuluj</button>
+        </div>
+    </div>
+</form>
